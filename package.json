@@ -1,0 +1,23 @@
+{
+  "name": "slack-bot-chuck-norris",
+  "version": "1.0.0",
+  "description": "A Chuck Norris Slack bot that tells Chuck Norris jokes",
+  "main": "lib/norrisbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chuck",
+    "Norris",
+    "Slack",
+    "bot",
+    "jokes",
+    "Node.js"
+  ],
+  "author": "Gary Pang",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^1.0.2",
+    "sqlite3": "^3.1.8"
+  }
+}
