@@ -19,5 +19,8 @@
   "dependencies": {
     "slackbots": "^0.3.0",
     "sqlite3": "^3.1.8"
+  },
+  "engines": {
+    "node": "4.1.1"
   }
 }
